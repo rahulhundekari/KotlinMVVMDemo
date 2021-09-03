@@ -1,14 +1,13 @@
 package com.example.demoassignment.ui.home
 
 import android.content.Intent
-import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import androidx.activity.viewModels
 import com.example.demoassignment.R
-import com.example.demoassignment.ui.DetailActivity
+import com.example.demoassignment.ui.detail.DetailActivity
 import com.example.demoassignment.utils.Status
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.android.synthetic.main.activity_main.*
@@ -59,7 +58,6 @@ class MainActivity : AppCompatActivity() {
 
                     Status.LOADING -> {
                         progressBar.visibility = View.VISIBLE
-                        Toast.makeText(this, "Loading Data...", Toast.LENGTH_LONG).show()
                     }
 
                 }

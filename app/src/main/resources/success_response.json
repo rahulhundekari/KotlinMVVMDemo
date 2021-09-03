@@ -1,0 +1,1159 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/187841d0-bf3b-5ac3-bb2f-81d176fd9e8e",
+      "url": "https://www.nytimes.com/2021/09/02/nyregion/ida-new-york-flood.html",
+      "id": 100000007952053,
+      "asset_id": 100000007952053,
+      "source": "New York Times",
+      "published_date": "2021-09-02",
+      "updated": "2021-09-03 07:24:34",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Floods;Hurricane Ida (2021);New York City;New Jersey",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "At least 43 are dead after Ida causes flooding in four states.",
+      "abstract": "Many of the deaths involved people trapped in their homes by flooding.",
+      "des_facet": [
+        "Floods",
+        "Hurricane Ida (2021)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City",
+        "New Jersey"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/918fdcdb-dfa6-58ec-86d4-77f11023f4d5",
+      "url": "https://www.nytimes.com/2021/09/01/business/joe-rogan-covid-19.html",
+      "id": 100000007951494,
+      "asset_id": 100000007951494,
+      "source": "New York Times",
+      "published_date": "2021-09-01",
+      "updated": "2021-09-02 17:41:23",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Podcasts;Drugs (Pharmaceuticals);Rogan, Joe;Florida",
+      "column": null,
+      "byline": "By Alyssa Lukpat",
+      "type": "Article",
+      "title": "Joe Rogan, a podcasting giant who has been dismissive of vaccination, has Covid.",
+      "abstract": "“I got fevers, sweats, and I knew what was going on,” he said in a video on Instagram on Wednesday, after returning from a series of shows in Florida.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Podcasts",
+        "Drugs (Pharmaceuticals)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Rogan, Joe"
+      ],
+      "geo_facet": [
+        "Florida"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joe Rogan performing in August 2019 at the Ice House Comedy Club in Pasadena, Calif.",
+          "copyright": "Michael S. Schwartz/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/01/multimedia/01virus-briefing-joe-rogan-01/01virus-briefing-joe-rogan-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/01/multimedia/01virus-briefing-joe-rogan-01/01virus-briefing-joe-rogan-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/01/multimedia/01virus-briefing-joe-rogan-01/01virus-briefing-joe-rogan-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5cec635e-c6c5-56a4-b3e7-169ae2ce3521",
+      "url": "https://www.nytimes.com/2021/09/02/nyregion/flash-floods-new-york.html",
+      "id": 100000007951900,
+      "asset_id": 100000007951900,
+      "source": "New York Times",
+      "published_date": "2021-09-02",
+      "updated": "2021-09-02 19:12:47",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Floods;Hurricanes and Tropical Storms;Wind;Weather;New York City;Central Park (Manhattan, NY)",
+      "column": null,
+      "byline": "By Michael Levenson and Anne Barnard",
+      "type": "Article",
+      "title": "Scenes from New York City as Ida paralyzes region.",
+      "abstract": "The sudden inundation from the remnants of Ida transformed familiar moments of life in New York City and its suburbs into something otherworldly, waterlogged and frightening.",
+      "des_facet": [
+        "Floods",
+        "Hurricanes and Tropical Storms",
+        "Wind",
+        "Weather"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City",
+        "Central Park (Manhattan, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stephanie Keith for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/01/us/01-IDA-NYC-storm-1/01-IDA-NYC-storm-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/01/us/01-IDA-NYC-storm-1/01-IDA-NYC-storm-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/01/us/01-IDA-NYC-storm-1/01-IDA-NYC-storm-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fd1e1282-7186-5994-9b18-2ae1da4c1ecf",
+      "url": "https://www.nytimes.com/article/breakthrough-infections-covid-19-coronavirus.html",
+      "id": 100000007948722,
+      "asset_id": 100000007948722,
+      "source": "New York Times",
+      "published_date": "2021-09-01",
+      "updated": "2021-09-02 08:46:12",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Coronavirus Risks and Safety Concerns;Disease Rates;Coronavirus Delta Variant;Vaccination and Immunization;Coronavirus (2019-nCoV);Coronavirus Reopenings",
+      "column": null,
+      "byline": "By Tara Parker-Pope",
+      "type": "Article",
+      "title": "Worried About Breakthrough Infections? Here’s How to Navigate This Phase of the Pandemic.",
+      "abstract": "If you’re vaccinated, you should think about a number of variables, including your overall health, where you live and the risks you take.",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Disease Rates",
+        "Coronavirus Delta Variant",
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Capozziello for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/01/well/01Well-Breakthrough-explainer1/merlin_187725252_3797cddb-8610-4a8d-ba39-0b1e5732afe0-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/01/well/01Well-Breakthrough-explainer1/merlin_187725252_3797cddb-8610-4a8d-ba39-0b1e5732afe0-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/01/well/01Well-Breakthrough-explainer1/merlin_187725252_3797cddb-8610-4a8d-ba39-0b1e5732afe0-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/196faac3-9da7-564b-a94f-46380f35dff6",
+      "url": "https://www.nytimes.com/2021/09/01/us/supreme-court-texas-abortion.html",
+      "id": 100000007948122,
+      "asset_id": 100000007948122,
+      "source": "New York Times",
+      "published_date": "2021-09-01",
+      "updated": "2021-09-02 21:47:00",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Abortion;Law and Legislation;Roe v Wade (Supreme Court Decision);Women's Rights;State Legislatures;Suits and Litigation (Civil);Decisions and Verdicts;United States Politics and Government;Abbott, Gregory W (1957- );Republican Party;Supreme Court (US);Texas",
+      "column": null,
+      "byline": "By Adam Liptak, J. David Goodman and Sabrina Tavernise",
+      "type": "Article",
+      "title": "Supreme Court, Breaking Silence, Won’t Block Texas Abortion Law",
+      "abstract": "The law, which prohibits most abortions after six weeks and went into effect on Wednesday, was drafted by Texas lawmakers with the goal of frustrating efforts to challenge it in federal court.",
+      "des_facet": [
+        "Abortion",
+        "Law and Legislation",
+        "Roe v Wade (Supreme Court Decision)",
+        "Women's Rights",
+        "State Legislatures",
+        "Suits and Litigation (Civil)",
+        "Decisions and Verdicts",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Abbott, Gregory W (1957- )"
+      ],
+      "geo_facet": [
+        "Texas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A “Bans Off Our Bodies” protest at the Texas State Capitol in Austin on Wednesday.",
+          "copyright": "Montinique Monroe for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/01/us/01dc-scotus/01dc-scotus-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/01/us/01dc-scotus/01dc-scotus-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/01/us/01dc-scotus/01dc-scotus-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/aed92f94-719c-5eb2-a306-63925f105f85",
+      "url": "https://www.nytimes.com/2021/09/02/opinion/covid-vaccine-mandates-civil-liberties.html",
+      "id": 100000007946970,
+      "asset_id": 100000007946970,
+      "source": "New York Times",
+      "published_date": "2021-09-02",
+      "updated": "2021-09-02 23:18:14",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus Risks and Safety Concerns;Freedom of Religion;Masks;Quarantine (Life and Culture);Coronavirus (2019-nCoV);Vaccination and Immunization;Religion-State Relations;Civil Rights and Liberties",
+      "column": null,
+      "byline": "By David Cole and Daniel Mach",
+      "type": "Article",
+      "title": "We Work at the A.C.L.U. Here’s What We Think About Vaccine Mandates.",
+      "abstract": "They protect the most vulnerable among us.",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Freedom of Religion",
+        "Masks",
+        "Quarantine (Life and Culture)",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Religion-State Relations",
+        "Civil Rights and Liberties"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jocelyn Tsaih",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/05/opinion/02cole-mach/02cole-mach-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/05/opinion/02cole-mach/02cole-mach-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/05/opinion/02cole-mach/02cole-mach-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/07d7b4fb-eada-58ea-b8cb-9fdf2d081d9f",
+      "url": "https://www.nytimes.com/2021/09/01/us/northeast-rain-ida-new-york.html",
+      "id": 100000007949626,
+      "asset_id": 100000007949626,
+      "source": "New York Times",
+      "published_date": "2021-09-01",
+      "updated": "2021-09-03 07:24:08",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Hurricane Ida (2021);Floods;New England States (US);Mid-Atlantic States (US);Atlantic City (NJ);New York City;Northeastern States (US)",
+      "column": null,
+      "byline": "By Jesus Jiménez and Michael Levenson",
+      "type": "Article",
+      "title": "Ida’s wind-driven remnants pummel the New York City region.",
+      "abstract": "The city shut most of its subway system and banned residents from traveling until 5 a.m., as elements of the former hurricane created life-threatening flooding.",
+      "des_facet": [
+        "Hurricane Ida (2021)",
+        "Floods"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New England States (US)",
+        "Mid-Atlantic States (US)",
+        "Atlantic City (NJ)",
+        "New York City",
+        "Northeastern States (US)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/cdb4947a-89b1-517a-b958-6d63cbc839c5",
+      "url": "https://www.nytimes.com/2021/09/01/health/covid-delta-us-britain.html",
+      "id": 100000007929090,
+      "asset_id": 100000007929090,
+      "source": "New York Times",
+      "published_date": "2021-09-01",
+      "updated": "2021-09-02 15:47:30",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Coronavirus Delta Variant;Disease Rates;Coronavirus (2019-nCoV);Vaccination and Immunization;Coronavirus Reopenings;Deaths (Fatalities);India;Great Britain;United States",
+      "column": null,
+      "byline": "By Apoorva Mandavilli, Benjamin Mueller and Shalini Venugopal Bhagat",
+      "type": "Article",
+      "title": "When Will the Delta Surge End?",
+      "abstract": "The variant retreated unexpectedly in Britain and India, but has begun to rebound. The United States may take an even bumpier path, scientists said.",
+      "des_facet": [
+        "your-feed-science",
+        "Coronavirus Delta Variant",
+        "Disease Rates",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Coronavirus Reopenings",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "India",
+        "Great Britain",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emergency workers helped a Covid patient to a hospital in Houston in late August.",
+          "copyright": "John Moore/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/08/27/science/00virus-delta1/00virus-delta1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/27/science/00virus-delta1/00virus-delta1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/27/science/00virus-delta1/00virus-delta1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/56df1901-4abe-51da-9a50-aab7a59c63a8",
+      "url": "https://www.nytimes.com/2021/09/01/business/media/nbc-reporter-hurricane-ida.html",
+      "id": 100000007949783,
+      "asset_id": 100000007949783,
+      "source": "New York Times",
+      "published_date": "2021-09-01",
+      "updated": "2021-09-02 16:41:48",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "News and News Media;Television;Hurricane Ida (2021);Assaults;Dagley, Benjamin Eugene;Brewster, Shaquille (Journalist);NBC News;Gulfport (Miss)",
+      "column": null,
+      "byline": "By Eduardo Medina and Michael Levenson",
+      "type": "Article",
+      "title": "He Confronted a Reporter Live on the Air. Now He’s in Custody.",
+      "abstract": "Benjamin Eugene Dagley interrupted an NBC reporter covering Hurricane Ida in Mississippi, the police said. Three days later, U.S. marshals arrested him in Ohio.",
+      "des_facet": [
+        "News and News Media",
+        "Television",
+        "Hurricane Ida (2021)",
+        "Assaults"
+      ],
+      "org_facet": [
+        "NBC News"
+      ],
+      "per_facet": [
+        "Dagley, Benjamin Eugene",
+        "Brewster, Shaquille (Journalist)"
+      ],
+      "geo_facet": [
+        "Gulfport (Miss)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A man identified as Benjamin Eugene Dagley, left, confronted Shaquille Brewster, an NBC reporter, as Mr. Brewster covered Hurricane Ida.",
+          "copyright": "MSNBC",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/08/31/multimedia/31xp-nbcreporter-SWAP2/31xp-nbcreporter-SWAP2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/31/multimedia/31xp-nbcreporter-SWAP2/31xp-nbcreporter-SWAP2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/31/multimedia/31xp-nbcreporter-SWAP2/31xp-nbcreporter-SWAP2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4960d869-1780-5e00-bab8-ff95d628f1c9",
+      "url": "https://www.nytimes.com/2021/09/01/health/texas-abortion-law-facts.html",
+      "id": 100000007951273,
+      "asset_id": 100000007951273,
+      "source": "New York Times",
+      "published_date": "2021-09-01",
+      "updated": "2021-09-02 14:59:44",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Law and Legislation;Pregnancy and Childbirth;Abortion;Black People;Women and Girls;Heart;Suits and Litigation (Civil);Roe v Wade (Supreme Court Decision);Supreme Court (US);Texas",
+      "column": null,
+      "byline": "By Roni Caryn Rabin",
+      "type": "Article",
+      "title": "Answers to Questions About the Texas Abortion Law",
+      "abstract": "The law prohibits abortions before many women even know they’re pregnant, and it will be hard to challenge in the courts.",
+      "des_facet": [
+        "your-feed-science",
+        "Law and Legislation",
+        "Pregnancy and Childbirth",
+        "Abortion",
+        "Black People",
+        "Women and Girls",
+        "Heart",
+        "Suits and Litigation (Civil)",
+        "Roe v Wade (Supreme Court Decision)"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Texas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Abortion rights supporters demonstrating outside the Texas Capitol on Wednesday.",
+          "copyright": "Montinique Monroe for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/01/science/01abortion-01/01abortion-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/01/science/01abortion-01/01abortion-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/01/science/01abortion-01/01abortion-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/85324212-9258-59bd-95aa-527bc29b5487",
+      "url": "https://www.nytimes.com/2021/09/02/nyregion/nyc-flooding-deaths.html",
+      "id": 100000007953002,
+      "asset_id": 100000007953002,
+      "source": "New York Times",
+      "published_date": "2021-09-02",
+      "updated": "2021-09-03 05:14:07",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Traffic Accidents and Safety;Floods;Weather;Hurricanes and Tropical Storms;Basements and Cellars;Drownings;Evacuations and Evacuees;Bollwage, J Christian;New York City;New York State;New Jersey;Queens (NYC)",
+      "column": null,
+      "byline": "By Sarah Maslin Nir",
+      "type": "Article",
+      "title": "Trapped in Basements and Cars, They Lost Their Lives in Savage Storm",
+      "abstract": "The storm’s victims included at least 15 people in New York State and 23 in New Jersey. Some died as waters inundated their basement homes.",
+      "des_facet": [
+        "Traffic Accidents and Safety",
+        "Floods",
+        "Weather",
+        "Hurricanes and Tropical Storms",
+        "Basements and Cellars",
+        "Drownings",
+        "Evacuations and Evacuees"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bollwage, J Christian"
+      ],
+      "geo_facet": [
+        "New York City",
+        "New York State",
+        "New Jersey",
+        "Queens (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mingma Sherpa, her husband, Lobsang Lama, and their little boy whom people called Ang drowned in their basement apartment in Queens. ",
+          "copyright": "Gregg Vigliotti for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/nyregion/02nystorm-deaths1/02nystorm-deaths1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/nyregion/02nystorm-deaths1/02nystorm-deaths1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/nyregion/02nystorm-deaths1/02nystorm-deaths1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a9d4de49-26ef-59eb-b6e2-e511949a6b60",
+      "url": "https://www.nytimes.com/2021/09/02/us/politics/isis-beatles-alexanda-kotey.html",
+      "id": 100000007952344,
+      "asset_id": 100000007952344,
+      "source": "New York Times",
+      "published_date": "2021-09-02",
+      "updated": "2021-09-03 07:01:58",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Kidnapping and Hostages;Terrorism;Torture;Kotey, Alexanda;Elsheikh, El Shafee;Foley, James (1973-2014);Sotloff, Steven J;Kassig, Peter Edward (1988-2014);Mueller, Kayla (1988-2015);Islamic State in Iraq and Syria (ISIS);Alexandria (Va);Syria;Great Britain",
+      "column": null,
+      "byline": "By Adam Goldman",
+      "type": "Article",
+      "title": "Member of Brutal ISIS ‘Beatles’ Cell Pleads Guilty in Hostage Cases",
+      "abstract": "Alexanda Kotey admitted that he played a key part in American prisoners’ kidnapping, detention and hostage negotiations. Some of the hostages were beheaded.",
+      "des_facet": [
+        "Kidnapping and Hostages",
+        "Terrorism",
+        "Torture"
+      ],
+      "org_facet": [
+        "Islamic State in Iraq and Syria (ISIS)"
+      ],
+      "per_facet": [
+        "Kotey, Alexanda",
+        "Elsheikh, El Shafee",
+        "Foley, James (1973-2014)",
+        "Sotloff, Steven J",
+        "Kassig, Peter Edward (1988-2014)",
+        "Mueller, Kayla (1988-2015)"
+      ],
+      "geo_facet": [
+        "Alexandria (Va)",
+        "Syria",
+        "Great Britain"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexanda Kotey, left, was captured along with El Shafee Elsheikh, another member of the Islamic State cell known as “the Beatles,” in Syria in 2018.",
+          "copyright": "Hussein Malla/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/us/02dc-beatle/02dc-beatle-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/us/02dc-beatle/02dc-beatle-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/us/02dc-beatle/02dc-beatle-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c7391f7e-c77c-54f7-8804-fe8d53d80ed6",
+      "url": "https://www.nytimes.com/2021/09/01/world/asia/cia-afghanistan-evacuations-demolitions.html",
+      "id": 100000007948123,
+      "asset_id": 100000007948123,
+      "source": "New York Times",
+      "published_date": "2021-09-01",
+      "updated": "2021-09-02 10:44:33",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "nytdsection": "world",
+      "adx_keywords": "Afghanistan War (2001- );Espionage and Intelligence Services;Evacuations and Evacuees;Demolition;your-feed-visual-investigations;Central Intelligence Agency;Kabul (Afghanistan)",
+      "column": null,
+      "byline": "By Christiaan Triebert and Haley Willis",
+      "type": "Article",
+      "title": "Covert Evacuations and Planned Demolitions: How the C.I.A. Left Its Last Base in Afghanistan",
+      "abstract": "A compound outside Kabul was one of the most secretive — and notorious — in Afghanistan. Our visual analysis shows how the spy agency shut down its operations there — and how the Taliban then entered the site.",
+      "des_facet": [
+        "Afghanistan War (2001- )",
+        "Espionage and Intelligence Services",
+        "Evacuations and Evacuees",
+        "Demolition",
+        "your-feed-visual-investigations"
+      ],
+      "org_facet": [
+        "Central Intelligence Agency"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Kabul (Afghanistan)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The C.I.A. compound in Kabul, Afghanistan, captured by satellite on Aug. 24.",
+          "copyright": "Planet Labs",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/08/31/video/vi-compound-top-2/vi-compound-top-2-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/31/video/vi-compound-top-2/vi-compound-top-2-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/31/video/vi-compound-top-2/vi-compound-top-2-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/98ec2692-74af-595a-bdce-837ce11e7f7c",
+      "url": "https://www.nytimes.com/2021/09/02/nyregion/nyc-subway-transit-updates.html",
+      "id": 100000007952105,
+      "asset_id": 100000007952105,
+      "source": "New York Times",
+      "published_date": "2021-09-02",
+      "updated": "2021-09-03 07:21:18",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Subways;Transit Systems;Delays (Transportation);Hurricane Ida (2021);Floods;Metro-North Commuter Railroad;Metropolitan Transportation Authority;New Jersey Transit;New York City Transit Authority;Newark Liberty International Airport (NJ);Long Island (NY);Manhattan (NYC);New York City;New York Metropolitan Area",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "Transit in the New York City area slowly returns after severe flooding.",
+      "abstract": "Service on the city’s subway, rail and bus lines crawled back after major suspensions. Amtrak canceled all trains between Albany and New York City through Friday.",
+      "des_facet": [
+        "Subways",
+        "Transit Systems",
+        "Delays (Transportation)",
+        "Hurricane Ida (2021)",
+        "Floods"
+      ],
+      "org_facet": [
+        "Metro-North Commuter Railroad",
+        "Metropolitan Transportation Authority",
+        "New Jersey Transit",
+        "New York City Transit Authority",
+        "Newark Liberty International Airport (NJ)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Long Island (NY)",
+        "Manhattan (NYC)",
+        "New York City",
+        "New York Metropolitan Area"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6dfd7970-14f5-5647-b4ef-7baf749fef55",
+      "url": "https://www.nytimes.com/2021/09/02/nyregion/basement-apartment-floods-deaths.html",
+      "id": 100000007953077,
+      "asset_id": 100000007953077,
+      "source": "New York Times",
+      "published_date": "2021-09-02",
+      "updated": "2021-09-03 07:20:47",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Renting and Leasing (Real Estate);Real Estate and Housing (Residential);Hurricane Ida (2021);Basements and Cellars;Floods;Affordable Housing;Deaths (Fatalities);Global Warming;Adams, Eric L;de Blasio, Bill;Buildings Department (NYC);New York City",
+      "column": null,
+      "byline": "By Mihir Zaveri, Matthew Haag, Adam Playford and Nate Schweber",
+      "type": "Article",
+      "title": "How the Storm Turned Basement Apartments Into Death Traps",
+      "abstract": "At least 11 people were found dead in basements after torrential rains flooded New York City — nearly as many as those killed by Hurricane Ida in Louisiana, where the storm made landfall.",
+      "des_facet": [
+        "Renting and Leasing (Real Estate)",
+        "Real Estate and Housing (Residential)",
+        "Hurricane Ida (2021)",
+        "Basements and Cellars",
+        "Floods",
+        "Affordable Housing",
+        "Deaths (Fatalities)",
+        "Global Warming"
+      ],
+      "org_facet": [
+        "Buildings Department (NYC)"
+      ],
+      "per_facet": [
+        "Adams, Eric L",
+        "de Blasio, Bill"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A mother and her young daughter died after water rushed into a basement dwelling in Queens. ",
+          "copyright": "Gregg Vigliotti for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/nyregion/02nystorm-basements1/02nystorm-basements1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/nyregion/02nystorm-basements1/merlin_194083047_3e53a234-1916-43f6-bc73-f5c260235bf7-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/nyregion/02nystorm-basements1/merlin_194083047_3e53a234-1916-43f6-bc73-f5c260235bf7-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/278b47fd-1d19-589f-9f60-c212fda48f51",
+      "url": "https://www.nytimes.com/2021/09/02/business/economy/afghanistan-taliban-financial-crisis.html",
+      "id": 100000007947893,
+      "asset_id": 100000007947893,
+      "source": "New York Times",
+      "published_date": "2021-09-02",
+      "updated": "2021-09-03 00:48:09",
+      "section": "Business",
+      "subsection": "Economy",
+      "nytdsection": "business",
+      "adx_keywords": "Banking and Financial Institutions;Economic Conditions and Trends;Afghanistan War (2001- );Poverty;Smuggling;Opium;Foreign Aid;Taliban;Afghanistan",
+      "column": null,
+      "byline": "By Alexandra Stevenson",
+      "type": "Article",
+      "title": "Short on Money, Legal and Otherwise, the Taliban Face a Crisis",
+      "abstract": "The group has long tapped underground banks and opium to fund Afghanistan’s insurgency. Fixing the nation’s problems will require a lot more than that.",
+      "des_facet": [
+        "Banking and Financial Institutions",
+        "Economic Conditions and Trends",
+        "Afghanistan War (2001- )",
+        "Poverty",
+        "Smuggling",
+        "Opium",
+        "Foreign Aid"
+      ],
+      "org_facet": [
+        "Taliban"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Afghanistan"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taliban fighters guarding the money changers outside the main currency exchange market in Kabul, Afghanistan.",
+          "copyright": "Victor J. Blue for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/03/business/03afghan-cash-print1/00afghan-cash-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/03/business/03afghan-cash-print1/merlin_193817640_305e7e5d-2fff-4873-99cc-d3b171606c77-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/03/business/03afghan-cash-print1/merlin_193817640_305e7e5d-2fff-4873-99cc-d3b171606c77-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2baba3bc-a2c6-5a4b-a8f0-b09f7f7f1ab1",
+      "url": "https://www.nytimes.com/2021/09/02/nyregion/hurricane-ida-photos-nyc.html",
+      "id": 100000007952063,
+      "asset_id": 100000007952063,
+      "source": "New York Times",
+      "published_date": "2021-09-02",
+      "updated": "2021-09-03 07:23:58",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Hurricane Ida (2021);Hurricanes and Tropical Storms;New York City;New York State",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "In pictures: Ida tears through the New York City area.",
+      "abstract": "The remnants of Hurricane Ida pounded the region on Wednesday, dumping record rain and creating flooding in the five boroughs, New Jersey and Pennsylvania.",
+      "des_facet": [
+        "Hurricane Ida (2021)",
+        "Hurricanes and Tropical Storms"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City",
+        "New York State"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Queens",
+          "copyright": "Dakota Santiago for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/world/02nyc-storm-carousel-photos2/02nyc-storm-carousel-photos2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/world/02nyc-storm-carousel-photos2/merlin_194050638_18f73b7b-b9a3-41db-af31-e26ee0c29092-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/world/02nyc-storm-carousel-photos2/merlin_194050638_18f73b7b-b9a3-41db-af31-e26ee0c29092-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1082f804-3095-5e8c-8620-44d9a321531f",
+      "url": "https://www.nytimes.com/2021/09/02/us/philadelphia-flooding.html",
+      "id": 100000007951917,
+      "asset_id": 100000007951917,
+      "source": "New York Times",
+      "published_date": "2021-09-02",
+      "updated": "2021-09-03 00:00:49",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Hurricane Ida (2021);Floods;Philadelphia (Pa);Maryland;Pennsylvania",
+      "column": null,
+      "byline": "By Jon Hurdle and Campbell Robertson",
+      "type": "Article",
+      "title": "Philadelphia is inundated by floodwaters as Ida leaves a trail of destruction in the Mid-Atlantic.",
+      "abstract": "Tornadoes touched down in Maryland and in the Philadelphia suburbs. Rain-swollen rivers were still rising. Many were without power.",
+      "des_facet": [
+        "Hurricane Ida (2021)",
+        "Floods"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Philadelphia (Pa)",
+        "Maryland",
+        "Pennsylvania"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/589a9d06-9b7a-5f01-a7fc-961441299db1",
+      "url": "https://www.nytimes.com/2021/09/01/arts/television/monica-lewinsky-impeachment-american-crime-story.html",
+      "id": 100000007935045,
+      "asset_id": 100000007935045,
+      "source": "New York Times",
+      "published_date": "2021-09-01",
+      "updated": "2021-09-02 10:19:42",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Content Type: Personal Profile;Television;Impeachment;United States Politics and Government;#MeToo Movement;Lewinsky, Monica S;Tripp, Linda R;Clinton, Bill;FX (TV Network)",
+      "column": null,
+      "byline": "By Jessica Bennett",
+      "type": "Article",
+      "title": "Monica Lewinsky Is (Reluctantly) Revisiting ‘That Woman’",
+      "abstract": "As a producer on the new FX series “Impeachment,” she hopes to reframe her story and boost her burgeoning Hollywood career. But that doesn’t mean the experience has been easy.",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Television",
+        "Impeachment",
+        "United States Politics and Government",
+        "#MeToo Movement"
+      ],
+      "org_facet": [
+        "FX (TV Network)"
+      ],
+      "per_facet": [
+        "Lewinsky, Monica S",
+        "Tripp, Linda R",
+        "Clinton, Bill"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lewinsky tried myriad ways to reinvent herself over the years, for a long time without much success. But that started to change when she began publicly discussing the humiliation she endured.",
+          "copyright": "Ryan Pfluger for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/05/arts/05lewinsky-impeachment-B/05lewinsky-impeachment-B-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/05/arts/05lewinsky-impeachment-B/05lewinsky-impeachment-B-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/05/arts/05lewinsky-impeachment-B/05lewinsky-impeachment-B-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8487c576-d715-5f73-afcb-db141f0cc82a",
+      "url": "https://www.nytimes.com/2021/09/02/nyregion/ida-video-delivery-man.html",
+      "id": 100000007953417,
+      "asset_id": 100000007953417,
+      "source": "New York Times",
+      "published_date": "2021-09-02",
+      "updated": "2021-09-03 04:25:23",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Income Inequality;Delivery Services;Hurricane Ida (2021);Video Recordings, Downloads and Streaming;GrubHub Inc;Brooklyn (NYC);Williamsburg (Brooklyn, NY)",
+      "column": null,
+      "byline": "By Emma Goldberg",
+      "type": "Article",
+      "title": "A delivery man struggled through floodwaters. The man who filmed him wants to give him $1,700.",
+      "abstract": "A photographer who captured a viral video of a delivery man in the storm wants to donate the licensing fees from the clip.",
+      "des_facet": [
+        "Income Inequality",
+        "Delivery Services",
+        "Hurricane Ida (2021)",
+        "Video Recordings, Downloads and Streaming"
+      ],
+      "org_facet": [
+        "GrubHub Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Brooklyn (NYC)",
+        "Williamsburg (Brooklyn, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Johnny Miller",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/nyregion/02nyc-storm-delivery/02nyc-storm-delivery-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/nyregion/02nyc-storm-delivery/02nyc-storm-delivery-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/02/nyregion/02nyc-storm-delivery/02nyc-storm-delivery-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
